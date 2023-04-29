@@ -1,10 +1,11 @@
 ## Let's Play服务器绿铁公司欢迎您！
 
-如果你要加入我们，请您在Pull requests里向我们请求
+如果你要加入我们，请您在[Pull requests](https://github.com/LHMTR/Let-s-Play/pulls)或者[issue]{https://github.com/LHMTR/Let-s-play/issues)里向我们请求
 
 ### 规划问题
 
-我们正在进行注册，如果您能提供帮助，我们将会很感谢您您可以在[issues](https://github.com/LHMTR/Let-s-play/issues)里提供您的轨道交通想法
+我们正在进行注册，如果您能提供帮助，我们将会很感谢您
+您可以在[issues](https://github.com/LHMTR/Let-s-play/issues)里提供您的轨道交通想法
 
 ### 建设问题
 
