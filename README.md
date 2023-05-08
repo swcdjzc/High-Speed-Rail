@@ -2,7 +2,7 @@
 
 ## 齐齐玩服务器绿铁公司欢迎您！
 
-如果你要加入我们，请您在[合并请求](https://github.com/LHMTR/Let-s-Play/pulls)或者[问题](https://github.com/LHMTR/Let-s-play/issues)里向我们请求
+如果你要加入我们，请您在[问题](https://github.com/LHMTR/Let-s-play/issues)里向我们请求
 
 ### 规划问题
 
